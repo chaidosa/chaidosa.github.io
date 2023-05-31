@@ -24,8 +24,8 @@ main:
   - title: "Career"
     url: /career/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 #  - title: "Road trip"
 #    url: /travel/

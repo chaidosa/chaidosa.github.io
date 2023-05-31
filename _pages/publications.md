@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -133,4 +133,4 @@ _[Blog post]_ **Claire Duvallet**. "[A Well-Kept Secret for Finding a Job post-P
 
 _[Blog post]_ **Claire Duvallet**. "[Learning to Engage in Deep Conversations](https://gradadmissions.mit.edu/blog/learning-engage-deep-conversations)." _MIT Graduate Admissions blog_ (2018).
 
-_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
+_[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT. -->
