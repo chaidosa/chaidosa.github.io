@@ -399,3 +399,56 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.small_font {
+  font-size: 15px;
+  line-height: 14px;
+}
+
+.page__content a {
+  text-decoration: underline;
+  color: #0a3d88;
+}
+
+.recent_updates {
+  background: #d8e2f4;
+  margin-bottom: 15px;
+  text-align: center;
+  padding: 5px 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: #272727;
+}
+
+.updates {
+  padding-left: 0;
+}
+
+.updates-month {
+  font-weight: 800;
+  width: 75px;
+  display: inline-block;
+  padding-right: 5px;
+  text-align: right;
+  max-width: 11%;
+  vertical-align: top;
+}
+
+.updates-content {
+  display: inline-block;
+  max-width: 88%;
+  padding-left: 5px;
+}
+
+.updates li {
+  list-style: none !important;
+}
+
+.page__content li {
+  font-size: 14px;
+  line-height: 23px;
+}
+
+ul li, ol li {
+  margin-bottom: 0.5em;
+}

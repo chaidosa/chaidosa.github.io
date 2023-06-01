@@ -14,3 +14,13 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+
+.container .small_font {
+    font-size: 15px;
+    line-height: 14px;
+}
+.container .page__content a {
+    text-decoration: underline;
+    color: #0a3d88;
+}
