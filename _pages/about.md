@@ -25,10 +25,10 @@ You can also reach out to me at pritesh0797 at gmail dot com.
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><span class="updates-month">June '23</span> <span class="updates-content">Got accepted for Summer School on Computer graphic/vision at IIT Delhi!</span></li>
-	<li><span class="updates-month">May '23</span> <span class="updates-content">Joined Indian Institute of Technology, Kharagpur (IIT-KGP) as a Research Fellow to work on 3D Computer Vision</span></li>
-	<li><span class="updates-month">Aug '22</span> <span class="updates-content">Joined Robert Bosch Center for Data Science and Artificial Intelligence IIT Madras as a Post Baccalaureate Fellow!</span></li>
-	<li><span class="updates-month">Jul '22</span> <span classs="updates-content">Accepted for a Month long School for Computer Vision and AI at IIIT-Hyderabad.</span></li>
-	<li><span class="updates-month">June '22</span> <span classs="updates-content">Finalist at Hackerearth's hackathon by Sporjo, securing fourth place and receiving offers for potential funding for our idea.</span></li>
-  <li><span class="updates-month">June '21</span> <span class="updates-content">Joined IIT Dharwad as a Research Fellow! to work on Fast Eigensolvers for Large-Scale Hierarchical Matrices</span></li>
+	<li><span class="updates-month">JUN '23</span> <span class="updates-content">Accepted for the Summer School on Computer Graphics/Vision at IIT Delhi!</span></li>
+	<li><span class="updates-month">MAY '23</span> <span class="updates-content">Joined Indian Institute of Technology, Kharagpur (IIT-KGP) as a Research Fellow, focusing on 3D Computer Vision.</span></li>
+	<li><span class="updates-month">AUG '22</span> <span class="updates-content">Joined Robert Bosch Center for Data Science and Artificial Intelligence at IIT Madras as a Post Baccalaureate Fellow!</span></li>
+	<li><span class="updates-month">JUL '22</span> <span class="updates-content">Accepted for a month-long School for Computer Vision and AI at IIIT-Hyderabad!</span></li>
+	<li><span class="updates-month">JUN '22</span> <span class="updates-content">Finalist at Hackerearth's hackathon by Sporjo, securing fourth place and receiving offers for potential funding for our idea.</span></li>
+  <li><span class="updates-month">JUN '21</span> <span class="updates-content">Joined IIT Dharwad as a Research Fellow, focusing one Fast Eigensolvers for Large-Scale Hierarchical Matrices.</span></li>
 </ul>
