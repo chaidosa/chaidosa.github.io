@@ -20,7 +20,7 @@ Prior to joining IIT-KGP, I served as a Post Baccalaureate Fellow at RBCDSAI, II
 
 <h3>Connect</h3>
 <a href="https://twitter.com/chaidosa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @chaidosa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
-You can also reach out to me at pritesh0797 at gmail dot com. 
+You can also reach out to me at priteshverma dot work at gmail dot com. 
 
 <div class="recent_updates">Recent Updates</div>
 
