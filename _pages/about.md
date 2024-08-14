@@ -25,7 +25,7 @@ You can also reach out to me at priteshverma dot work at gmail dot com.
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-<li><span class="updates-month">Aug '24</span> <span class="updates-content">Our Paper titled "Optimizing a Super-Fast Eigensolver for Hierarchically Semiseparable Matrices" accepted in ICPP 24, Sweden Italy</span></li>
+<li><span class="updates-month">Aug '24</span> <span class="updates-content">Our Paper titled "Optimizing a Super-Fast Eigensolver for Hierarchically Semiseparable Matrices" accepted in ICPP 24, Gotland Sweden, August 12 - 15, 2024</span></li>
 	<li><span class="updates-month">Mar '24</span> <span class="updates-content">Accepted an offer for a PhD in Computer Science at Oregon State University, Corvallis, OR USA</span></li>
 	<li><span class="updates-month">Sept '23</span> <span class="updates-content">Attending presentations and final event at Pi School, Rome Italy</span></li>
 	<li><span class="updates-month">JUL '23</span> <span class="updates-content">Selected as one of 9 global Fellows from a pool of over 800 applicants for the prestigious School of Al Fellowship at PI School Rome, Italy </span></li>
