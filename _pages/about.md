@@ -35,4 +35,5 @@ You can also reach out to me at priteshverma dot work at gmail dot com.
 	<li><span class="updates-month">JUL '22</span> <span class="updates-content">Accepted for a month-long School for Computer Vision and AI at IIIT-Hyderabad!</span></li>
 	<li><span class="updates-month">JUN '22</span> <span class="updates-content">Finalist at Hackerearth's hackathon by Sporjo, securing fourth place and receiving offers for potential funding for our idea.</span></li>
   <li><span class="updates-month">JUN '21</span> <span class="updates-content">Joined IIT Dharwad as a Research Fellow, focusing one Fast Eigensolvers for Large-Scale Hierarchical Matrices.</span></li>
+	<li><span class="updates-month">JUN '21</span> <span class="updates-content">Left my software engineering job :)</span></li>
 </ul>
