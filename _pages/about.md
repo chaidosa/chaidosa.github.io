@@ -10,9 +10,9 @@ redirect_from:
 ---
 <h3>About Me</h3>
 
-<span class="small_font">I am a Junior Research Fellow at the Indian Institute of Technology, Kharagpur (IIT-KGP), where I am advised by Professor <a target="_blank" href="https://cse.iitkgp.ac.in/~ayanc/">Ayan Chaudhary</a> at the Visual Information Processing(VIP) Lab.
+<span class="small_font">I am a first-year Ph.D. student in Computer Science at <a target="_blank" href="https://engineering.oregonstate.edu/EECS">Oregon State University</a>, Corvallis, OR, USA, in the Deep Machine Vision Group.
 <br>&emsp;&emsp;&emsp;
-Prior to joining IIT-KGP, I served as a Post Baccalaureate Fellow at RBCDSAI, IIT-Madras. Before that, I worked as a Research Fellow at IIT-Dharwad under the guidance of Professor <a target="_blank" href="https://hegden.github.io/">Nikhil Hegde</a>.
+<h5>Research Experiece</h5>I have had the privilege of working with some of the top research labs in India, where I served as a Research Fellow at IIT Kharagpur, a Post-Baccalaureate Fellow at RBCDSAI, IIT Madras, and a Research Fellow at IIT Dharwad under the guidance of Nikhil Hegde, Ayan Chaudhury, Amlan Barua. I am also a recipeint of AI fellowship from Pi School Rome, Italy where I worked under the supervision of Sébastien Bratières
 </span>
 <h3>Research Interest</h3>
 
